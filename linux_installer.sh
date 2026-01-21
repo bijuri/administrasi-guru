@@ -43,7 +43,9 @@ mkdir -p "$APP_DIR"
 chown $USER_NAME:$USER_NAME "$APP_DIR"
 
 # 4. Download Source Code
-DOWNLOAD_URL="https://github.com/bijuri/administrasi-guru/releases/download/v1.6.4/Linux_Protected_Install_v1.6.4.zip" 
+# NOTE: User harus mengisi link download ZIP di sini nanti
+# Jika pakai GitHub Release: https://github.com/USERNAME/REPO/releases/latest/download/file.zip
+DOWNLOAD_URL="https://github.com/bijuri/administrasi-guru/releases/download/v1.6.5/Linux_Protected_Install_v1.6.5.zip" 
 
 if [ -z "$DOWNLOAD_URL" ]; then
     # Jika URL kosong, minta user input file lokal atau URL
