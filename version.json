@@ -1,8 +1,7 @@
 {
-    "version": "1.6.3",
-    "release_date": "2026-01-22",
-    "changelog": "- Test: Notifikasi update\n- Fix: Minor improvements",
-    "filename": "Linux_Protected_Install_v1.6.4.zip.enc",
-    "download_url": "https://drive.google.com/uc?export=download&id="
-
+    "version": "1.6.4",
+    "release_date": "2026-01-21",
+    "changelog": "- New: Update via GitHub Releases\n- New: Protected Source Code (Compiled)",
+    "filename": "Linux_Protected_Install_v1.6.4.zip",
+    "download_url": "https://github.com/bijuri/administrasi-guru/releases/download/v1.6.4/Linux_Protected_Install_v1.6.4.zip.enc"
 }
