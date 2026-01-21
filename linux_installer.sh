@@ -43,8 +43,6 @@ mkdir -p "$APP_DIR"
 chown $USER_NAME:$USER_NAME "$APP_DIR"
 
 # 4. Download Source Code
-# NOTE: User harus mengisi link download ZIP di sini nanti
-# Jika pakai GitHub Release: https://github.com/USERNAME/REPO/releases/latest/download/file.zip
 DOWNLOAD_URL="" 
 
 if [ -z "$DOWNLOAD_URL" ]; then
