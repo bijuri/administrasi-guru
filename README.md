@@ -17,7 +17,6 @@ Aplikasi menyediakan berbagai format laporan siap cetak (standar dinas):
 - **Cetak Absensi**:
   - Rekap Bulanan (PDF & Excel)
   - Rekap Semester (PDF & Excel)
-  - Surat Izin/Sakit (Opsional)
 - **Format Excel**: Download rekap absensi ke `.xlsx` untuk pengolahan lebih lanjut.
 
 ### 4. 👥 Manajemen Data Terpadu
