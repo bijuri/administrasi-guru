@@ -1,8 +1,7 @@
 {
-      "version": "1.7.1",
+  "version": "1.7.1",
   "release_date": "2026-01-30",
   "changelog": "- Support Download Jurnal Format Word (.docx)\n- Fix AttributeError pada Generator Word",
   "filename": "GuruAdmin_v1.7.1_Linux_Source.zip.enc",
-  "download_url": "https://github.com/bijuri/administrasi-guru/releases/download/v1.7.1/GuruAdmin_v1.7.1_Linux_Source.zip.enc"
+  "download_url": ""
 }
-
